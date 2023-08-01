@@ -24,7 +24,7 @@ Ro5=[]
 
 
 for a in subfolders:
-    generated_mol_loc=a+'/generated_compounds/generated_molecules.smi'
+    generated_mol_loc=a+'/generated_compounds_SQUID/generated_molecules.smi' # Change to Ligdream and P2M when available.
     try:
         f = open(generated_mol_loc, "r")
     except:
