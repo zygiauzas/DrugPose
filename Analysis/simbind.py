@@ -145,7 +145,7 @@ def from_list_of_dist_to_max_indexes(list_of_dist):
 
 
 def from_ind_to_interaction_comparison(max_ind_list, temp, temp1, i):
-    d=1
+    d=0.1
     """
     Compares interactions between two molecules based on their maximum index lists.
 
