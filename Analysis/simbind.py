@@ -214,7 +214,7 @@ for i,a in enumerate(subfolders[:100]):
         score_per_folder.append(np.array(scores))
     try:
         result=np.array(score_per_folder, dtype=object)
-        something=result>40
+        something=result>50
         print(a[-4:],"results: ",np.any(something,axis=1).sum()/len(pdb_files)*100)
         result_list.append(np.any(something,axis=1).sum()/len(pdb_files)*100)
         
