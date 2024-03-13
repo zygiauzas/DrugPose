@@ -1,4 +1,4 @@
-# Benchmarking 3D generative methods for early stage drug discovery
+# DrugPose: Benchmarking 3D generative methods for early stage drug discovery
 
 ![alt text](Images/Pipeline.png)
 
