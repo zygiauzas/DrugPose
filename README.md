@@ -10,9 +10,9 @@ Relevant data can be downloaded from PDBBind: http://www.pdbbind.org.cn/ and it 
 
 Each of the model should be downloaded and the individual environments should be set up separately:
 
-** Ligdream **: \url{https://github.com/playmolecule/ligdream}
-** SQUID **: \url{https://github.com/keiradams/SQUID}
-** Pocket2mol **: \url{https://github.com/pengxingang/Pocket2Mol}
+- Ligdream: \url{https://github.com/playmolecule/ligdream}
+- SQUID: \url{https://github.com/keiradams/SQUID}
+- Pocket2mol: \url{https://github.com/pengxingang/Pocket2Mol}
 
 ## Processing
 
