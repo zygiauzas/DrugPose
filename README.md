@@ -18,6 +18,7 @@ Each of the model should be downloaded and the individual environments should be
 
 ### Setting up the directories
 Create a directory structure as outlined in the project documentation:
+
 |–– DrugPose
 |–– FLAG
 |–– Pocket2Mol
@@ -29,8 +30,10 @@ Create a directory structure as outlined in the project documentation:
 |  |  |–– generated_compounds
 |  |  |–– generated_compounds_SQUID
 |  |…
+
 ### Running the models on the PDBbind
 Once the repos are set up you can run the relevant scripts for Ligdream, SQUID and Pocket2mol models.
+
 ### Running the evaluation script
 Once the molecules are generated you can run the analysis scripts.
 
