@@ -18,6 +18,7 @@ Each of the model should be downloaded and the individual environments should be
 
 ### Running the models on the PDBbind
 Once the repos are set up you can run the relevant scripts for Ligdream, SQUID and Pocket2mol models, by running the files in generation folder.
+Make sure you specify the folders to the models and for each run you need to set up the environments for each model.
 
 ### Running the docking and evaluation scripts
 For running the docking and analysis scripts set up a new environment and run the docking scripts. Once the molecules are generated you can run the analysis scripts and specifying the directories in the folder.
