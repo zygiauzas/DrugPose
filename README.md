@@ -20,25 +20,15 @@ Each of the model should be downloaded and the individual environments should be
 Create a directory structure as outlined in the project documentation:
 
 |–– DrugPose
-
 |–– FLAG
-
 |–– Pocket2Mol
-
 |–– SQUID
-
 |–– ligdream
-
 |–– PDB_Bind
-
 |  |…
-
 |  |–– 1ppi
-
 |  |  |–– generated_compounds
-
 |  |  |–– generated_compounds_SQUID
-
 |  |…
 
 ### Running the models on the PDBbind
